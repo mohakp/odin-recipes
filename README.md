@@ -25,7 +25,7 @@ Instructions:
 - give a list of ingredients.
 - give the steps needed to make this dish.
 ```
-### Misal Pav:
+### Pav BHaji:
 ```
 I am making content for my recipes website. For now generate the following info and images for the dish name mentioned below:
 Dish Name: Pav Bhaji
